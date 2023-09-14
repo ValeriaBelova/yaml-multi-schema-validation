@@ -1,2 +1,8 @@
 car:
   manufacturer: volvo
+  model: VS50
+  year: "2000"
+  attributes:
+    - blue
+    - fourWheels
+  reg: 234POO
