@@ -6,7 +6,7 @@ computer:
   memory:
     manufacturer: Sony
     size: 8
-    type: 10
+    type: big
   disk:
     manufacturer: LG
     size: 6
