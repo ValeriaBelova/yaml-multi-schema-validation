@@ -1,10 +1,9 @@
 person:
-  name:
-    first_name: Stig
-    last_name: Lennersson
-    age: 39
-    class: five
-    start_year: 2
-    hobbies:
-      - swimming
-      - dancing
+  first_name: Stig
+  last_name: Lennersson
+  age: 39
+  class: five
+  start_year: 2
+  hobbies:
+    - swimming
+    - dancing
