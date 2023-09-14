@@ -3,5 +3,5 @@ schedule:
   year: "1998"
   lessons:
     - date: "2022-02-01"
-    - description: welldone
+      description: welldone
 
