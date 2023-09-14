@@ -1,3 +1,15 @@
 computer:
   cpu:
+    manufacturer: Samsung
     cores: 8
+    frequency: 5
+  memory:
+    manufacturer: Sony
+    size: 8
+    type: 10
+  disk:
+    manufacturer: LG
+    size: 6
+    type: good
+
+
